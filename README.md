@@ -2,6 +2,11 @@
 
 A collection with color schemes for Windows CMD app.
 
+## Previews
+### Spacegray
+
+![](/screenshots/spacegray.png)
+
 ## Attribution
 
 - [Collection of CMD color schemes by Paweł Maniecki](https://gist.github.com/P4/4245793)
