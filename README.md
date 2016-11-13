@@ -15,3 +15,4 @@ A collection with color schemes for Windows CMD app.
 
 - [Collection of CMD color schemes by Paweł Maniecki](https://gist.github.com/P4/4245793)
 - [Spacegray Theme For Mac Terminal by Will Tanna](https://github.com/wtanna/Spacegray-OSX-Terminal-Theme)
+- [iTerm 2 color schemes by Mark Badolato](https://github.com/mbadolato/iTerm2-Color-Schemes)
