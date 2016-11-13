@@ -7,6 +7,10 @@ A collection with color schemes for Windows CMD app.
 
 ![](/screenshots/spacegray.png)
 
+### Belafonte night
+
+![](/screenshots/belafonte_night.png)
+
 ## Attribution
 
 - [Collection of CMD color schemes by Paweł Maniecki](https://gist.github.com/P4/4245793)
